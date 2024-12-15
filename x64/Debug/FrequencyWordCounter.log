@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(65,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(74,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(94,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(129,17): warning C4101: 'delWord': unreferenced local variable
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(440,13): warning C4101: 'delWord': unreferenced local variable
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(580,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(789,16): error C2039: 'globalSortTextFreq': is not a member of 'Global'
+C:\Users\MBR\source\repos\FrequencyWordCounter\Source.cpp(19,7): message : see declaration of 'Global'
